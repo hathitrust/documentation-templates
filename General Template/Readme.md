@@ -25,6 +25,7 @@
 * [Design](#design)
 * [Functionality](#functionality)
 * [Usage](#Usage)
+* [Tests](#Tests)
 * [Hosting](#hosting)
 * [Resources](#resources)
 
@@ -155,6 +156,11 @@ This is where you explain the content structure, otherwise known as the Informat
 
 ## Usage
 - This section should clearly state the intended usecase for this project and how to interact with it. This section could aid in developing tests for the product as well as uncover un-intended use cases.
+
+## Tests
+- This section will clearly state the test use cases that are being coverd.
+- [X] Hello World
+- [ ] Something Serious
 
 ## Hosting
 - This section should outline the ideal environemt for hosting this application and it's intention.
