@@ -24,8 +24,8 @@
   * [Site Maps](#site-maps)
 * [Design](#design)
 * [Functionality](#functionality)
-* [Usage](#Usage)
-* [Tests](#Tests)
+* [Usage](#usage)
+* [Tests](#tests)
 * [Hosting](#hosting)
 * [Resources](#resources)
 
